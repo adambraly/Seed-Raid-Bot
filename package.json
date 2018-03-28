@@ -1,0 +1,19 @@
+{
+  "name": "seedraidbot",
+  "version": "1.0.0",
+  "description": "A scheduling bot for the seed raid discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adambraly/Seed-Raid-Bot.git"
+  },
+  "author": "Adam Braly",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "homepage": "https://github.com/adambraly/Seed-Raid-Bot#readme"
+}
